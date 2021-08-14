@@ -26,4 +26,5 @@ pip install -r requirements.txt
 * Run `python3 main.py`.
 
 ## Screenshot
-![Photo of the text message sent from Twilio.](https://raw.githubusercontent.com/mclbdn/stock-news/main/screenshot.jpeg)
+
+<img src="https://raw.githubusercontent.com/mclbdn/stock-news/main/screenshot.jpeg" width="300" height="600">
