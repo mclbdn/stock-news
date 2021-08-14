@@ -24,3 +24,6 @@ pip install -r requirements.txt
 * Change the constants and API keys in `main.py`.
 * Change the phone numbers to send from and to(according to your Twilio settings) in client.messages.create() in `main.py`.
 * Run `python3 main.py`.
+
+# Screenshot
+![Photo of the text message sent from Twilio.](https://raw.githubusercontent.com/mclbdn/stock-news/main/screenshot.jpeg)
