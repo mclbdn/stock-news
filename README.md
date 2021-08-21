@@ -9,7 +9,7 @@ Twilio account
 Twilio library (`pip install twilio`)  
 News API account (https://newsapi.org/)  
 Alpha Vantage account (http://alphavantage.co/)  
-Requirements library (`pip install requirements`)  
+Requests library (`pip install requests`)  
 
 ## Usage
 
